@@ -189,7 +189,7 @@ public class Interfaz extends javax.swing.JFrame {
        else{
            longitud=Integer.parseInt(txtLongitud.getText());
            v=new double[longitud];
-           JOptionPane.showMessageDialog(this, "Vector llenado correctamente", "Informacion",JOptionPane.INFORMATION_MESSAGE);
+           JOptionPane.showMessageDialog(this, "Vector creado correctamente", "Informacion",JOptionPane.INFORMATION_MESSAGE);
        }
     }//GEN-LAST:event_cmdCrearActionPerformed
 
